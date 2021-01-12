@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/femihamidokeDev/FemiBasic/_apis/build/status/freshtimi.Azuredevops?branchName=main)](https://dev.azure.com/femihamidokeDev/FemiBasic/_build/latest?definitionId=31&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
